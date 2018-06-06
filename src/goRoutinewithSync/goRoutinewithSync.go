@@ -1,5 +1,6 @@
 package main
 
+// refer https://medium.com/@gauravsingharoy/asynchronous-programming-with-go-546b96cd50c1
 import (
 	"fmt"
 	"net/http"
